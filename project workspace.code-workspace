@@ -5,7 +5,12 @@
 		},
 		{
 			"path": "Section 3 - Intermediate HTML"
+		},
+		{
+			"path": "Section 4 - Multipage websites"
 		}
 	],
-	"settings": {}
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Section 4 - Multipage websites"
+	}
 }
