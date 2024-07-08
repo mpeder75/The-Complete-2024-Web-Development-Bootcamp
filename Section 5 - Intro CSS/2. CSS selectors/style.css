@@ -1,0 +1,31 @@
+ol {
+  margin-left: -40px;
+  margin-top: -20px;
+  list-style-position: inside;
+}
+
+/* Opgave 1 */
+p {
+  color:red;
+}
+
+/* Opgave 2 */
+.note {
+font-size: 20px;
+}
+
+
+/* Opgave 3 */
+#id-selector-demo {
+  color: green;
+}
+
+/* Opgave 4 */
+li[value="4"] {
+color: blue;
+}
+
+/* Opgave 5 */
+* {
+  text-align: center;
+}
